@@ -4,4 +4,4 @@
 気の向くままに開発してます！いつもする手作業するめんどくさい手間を自動化すると言った目的や、学習目的に試しにその言語を使ったものを開発したりしてます。
 
 
-[![Glkei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glkei)](https://github.com/Glkei/github-readme-stats)
+![Glkei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glkei&show_icons=true&theme=synthwave)
