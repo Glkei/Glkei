@@ -1,5 +1,6 @@
 <!-- ![](https://github.com/Himabitoo/Himabitoo/blob/main/header.png) -->
 ## I'm Himabitoo
+[![Email Badge](https://img.shields.io/badge/-Email-blue?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:jkojima.265@gmail.com)]
 
 I'm 20 years old student developer.
 Little by little developing.
