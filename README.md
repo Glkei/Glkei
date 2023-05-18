@@ -49,6 +49,14 @@
 <div align="center"> 
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himabitoo&theme=synthwave)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himabitoo&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himabitoo&theme=synthwave)
+![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himabitoo&langs_count=6&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,hack,html&layout=default&card_width=699&hide_border=true&theme=synthwave)
+
+    
+   
 </div>
+
+<p align="center">
+  <a href="https://github.com/Himabitoo">
+    <img src="https://komarev.com/ghpvc/?username=Himabitoo&color=blue&style=flat)" />
+  </a>
+</p>
