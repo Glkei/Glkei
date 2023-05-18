@@ -46,8 +46,9 @@
 
 <h1 align="center">My Ditails</h1>
 
-<div align="center">
+<div align="center"> 
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himabitoo&theme=synthwave)
-    
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himabitoo&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himabitoo&theme=synthwave)
 </div>
