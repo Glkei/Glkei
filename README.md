@@ -41,3 +41,5 @@
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Himabitoo)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Himabitoo)
 [![docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Himabitoo)
+[![NGINX](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)](https://github.com/Himabitoo)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Himabitoo)
