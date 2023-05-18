@@ -20,9 +20,12 @@
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Himabitoo)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Himabitoo)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Himabitoo)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Himabitoo)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Himabitoo)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/Himabitoo)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Himabitoo)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Himabitoo)
 
 ### Framework
 
@@ -32,5 +35,9 @@
 
 ### OS / Tool
 
+[![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://github.com/Himabitoo)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://github.com/Himabitoo)
+
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Himabitoo)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Himabitoo)
+[![docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Himabitoo)
