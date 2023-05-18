@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img src="" width="28px" alt=""></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br>
@@ -43,3 +43,11 @@
 [![docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Himabitoo)
 [![NGINX](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)](https://github.com/Himabitoo)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Himabitoo)
+
+<h1 align="center">My Ditails</h1>
+
+<div align="center">
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himabitoo&theme=synthwave)
+    
+</div>
