@@ -18,7 +18,7 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Himabitoo)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://[github.com/Himabitoo](https://github.com/Himabitoo?tab=repositories&q=&type=&language=python&sort=))
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Himabitoo)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Himabitoo)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Himabitoo)
