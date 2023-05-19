@@ -23,13 +23,13 @@
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Himabitoo)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Himabitoo)
 [![C#](https://img.shields.io/badge/c＃-black?style=for-the-badge&logo=csharp)](https://github.com/Himabitoo)
-[![.NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=dotnet)](https://github.com/Himabitoo)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/Himabitoo)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Himabitoo)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Himabitoo)
 
 ### Framework
 
+[![.NET](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=dotnet)](https://github.com/Himabitoo)
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/Himabitoo)
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Himabitoo)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Himabitoo)
