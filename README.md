@@ -38,6 +38,7 @@
 
 [![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://github.com/Himabitoo)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://github.com/Himabitoo)
+[![CentOS](https://img.shields.io/badge/centos-black?style=for-the-badge&logo=centos)](https://github.com/Himabitoo)
 
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/Himabitoo)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Himabitoo)
