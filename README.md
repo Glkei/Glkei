@@ -18,14 +18,14 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://[github.com/Himabitoo](https://github.com/Himabitoo?tab=repositories&q=&type=&language=python&sort=))
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Himabitoo)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Himabitoo)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Himabitoo)
-[![C#](https://img.shields.io/badge/c＃-black?style=for-the-badge&logo=csharp)](https://github.com/Himabitoo)
-[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/Himabitoo)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Himabitoo)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Himabitoo)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Himabitoo?tab=repositories&q=&type=&language=python)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Himabitoo?tab=repositories&q=&type=&language=java)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Himabitoo?tab=repositories&q=&type=&language=php)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Himabitoo?tab=repositories&q=&type=&language=cplusplus)
+[![C#](https://img.shields.io/badge/c＃-black?style=for-the-badge&logo=csharp)](https://github.com/Himabitoo?tab=repositories&q=&type=&language=csharp)
+[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/Himabitoo?tab=repositories&q=&type=&language=dart)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Himabitoo?tab=repositories&q=&type=&language=html)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Himabitoo?tab=repositories&q=&type=&language=javascript)
 
 ### Framework
 
