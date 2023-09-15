@@ -63,5 +63,3 @@
     <img src="https://komarev.com/ghpvc/?username=Himabitoo&color=blue&style=flat)" />
   </a>
 </p>
-
-<small>forked from <a href="https://github.com/wervlad/wervlad">wervlad/wervlad</a></small>
