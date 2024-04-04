@@ -6,11 +6,11 @@
   <br>
     <i>
         I'm Himabitoo.<br>
-        I'm 21 years old student developer. Little by little developing.<br>
+        I'm 22 years old student developer. Little by little developing.<br>
         I developing automation of troublesome somthing and to learn another languages.
     </i><br/><br/>
     <i>
-    学生開発者です。<br/>
+    一般開発者です。<br/>
     気の向くままに開発してます！<br/>
     いつもするめんどくさい作業を自動化や、学習目的に試しにその言語を使ったものを開発したりしてます。
     </i>
