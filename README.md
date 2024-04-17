@@ -27,6 +27,7 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Himabitoo?tab=repositories&q=&type=&language=html)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Himabitoo?tab=repositories&q=&type=&language=javascript)
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescipt)](https://github.com/Himabitoo?tab=repositories&q=&type=&language=typescript)
+[![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/Himabitoo?tab=repositories&q=&type=&language=lua)
 
 ### Framework
 
