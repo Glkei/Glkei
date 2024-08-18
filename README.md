@@ -62,6 +62,6 @@
 
 <p align="center">
   <a href="https://github.com/Himabitoo">
-    <img src="https://komarev.com/ghpvc/?username=NazuNazuzu&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=Himabitoo&color=blue&style=flat)" />
   </a>
 </p>
