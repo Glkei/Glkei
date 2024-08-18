@@ -2,7 +2,7 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br>
-  <b>Visit my <a href="https://github.com/NazuNazuzu">portfolio</a> too!</b><br>
+  <b>Visit my <a href="https://nazunazuzu.github.io/portfolio/">portfolio</a> too!</b><br>
   <br>
     <i>
         I'm Himabitoo.<br>
