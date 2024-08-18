@@ -53,11 +53,12 @@
 
 <div align="center"> 
     
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himabitoo&theme=synthwave)
-![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himabitoo&langs_count=6&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,hack,html&layout=default&card_width=699&hide_border=true&theme=synthwave)
-
-    
-   
+[![trophy](https://github-profile-trophy.vercel.app/?username=NazuNazuzu&theme=dracula)](https://github.com/NazuNazuzu/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazuNazuzu&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NazuNazuzu&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NazuNazuzu&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NazuNazuzu&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NazuNazuzu&theme=prussian&utcOffset=8)
 </div>
 
 <p align="center">
