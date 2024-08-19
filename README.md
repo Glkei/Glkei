@@ -5,7 +5,7 @@
   <b>Visit my <a href="https://nazunazuzu.github.io/portfolio/">portfolio</a> too!</b><br>
   <br>
     <i>
-        I'm NazuNazuzu<br>
+        I'm Jun Kojima<br>
         I'm 22 years old developer. Little by little developing.<br>
         I developing automation of troublesome somthing and to learn another languages.
     </i><br/><br/>
